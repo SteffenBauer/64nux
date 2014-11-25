@@ -2,10 +2,10 @@
 ====================
 ![64nux](https://raw.githubusercontent.com/SteffenBauer/64nux/master/64nux.png)
 
-A small Unix-like operation system for the C64.
+A small Unix-like operating system for the C64.
 
-Original project to be found at: [LUnix](http://lng.sourceforge.net/)
-See also [64-lng](https://github.com/ytmytm/c64-lng)
+Original project to be found at: [LUnix](http://lng.sourceforge.net/),
+see also [64-lng](https://github.com/ytmytm/c64-lng)
 
 My modifications so far:
  * C64-only
@@ -22,5 +22,5 @@ Work in progress:
 
 Licensed under the GNU Lesser General Public License 2.0, see LICENSE
 
-Original copyright Daniel Dallmann.and the LNG community
+Original copyright Daniel Dallmann and the LNG community
 
