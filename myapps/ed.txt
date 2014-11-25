@@ -1,0 +1,38 @@
+LUnix ED
+
+--------------------
+Command Mode (showing :)
+Edit Mode (exit with .)
+
+Reading a file:         r <filename>
+Writing a file:         w <filename>
+Appending to a file:    W <filename>
+
+Quit:                   q (warning if unsaved changes)
+Quit without asking     Q
+
+Enter edit mode (append)    [Single line]a
+Enter edit mode (insert)    [Single line]i
+Enter edit mode (replace)   [Single line]c
+
+Print lines                 [Line range]p
+Print lines with number     [Line range]n
+Print lines with $ as \n    [Line range]l
+
+Delete lines                [Line range]d
+Move lines                  [Line range]m<target line>
+Copy lines                  [Line range]t<target line>
+
+Search forward              [Single line]/[pattern]
+Search backward             [Single line]?[pattern]
+Continue search             / or ?
+
+Undo                        u
+print ++CurrentLine         <return>
+
+Current line                .
+Single line                 <line>
+Line ranges                 <first line>[,<last line>]
+First Line                  0 or 1
+Last line                   $
+
